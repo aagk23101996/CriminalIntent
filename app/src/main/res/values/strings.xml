@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="show_sub">Show Subtitle</string>
+    <string name="hide_sub">Hide Subtitle</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
